@@ -18,14 +18,14 @@ public class EjerciciosJava {
         
         // TODO code application logic here
     
-    String nombre= "Jesús Navarro Sanchez";
+    String nombre= "Pablo Maroto Sanchez";
     int edad= 29;
     double altura=1.65;
     int peso= 91;
     String complexion= "Fornido";
-    String localizacion= "La Peseta";
-    String profesion= "Chatarrero";
-    String Hobby= "Jardinería";
+    String localizacion= "Mercamadrid";
+    String profesion= "Arquitecto";
+    String Hobby= "Adiestrador";
     
     System.out.println ("Me llamo " + nombre + ", tengo " + edad+ " años,mido " + altura + ", peso " + peso + ", Mi complexión es " + complexion + ", Vivo en " + localizacion + ", De profesión soy " + profesion + ", Uno de mis hobbies es la " + Hobby);
             
